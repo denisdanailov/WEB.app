@@ -1,7 +1,7 @@
 # WEB.app
  HTML/CSS
 
-This is my first Web App designed with HTML and CSS.
+The WEB.app designed with HTML and CSS.
 (Not responsive)
 (without functionality, only design)
 
